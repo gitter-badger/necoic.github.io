@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-05-26T21:51:35.890Z</updated>
+  <updated>2020-05-26T22:10:16.238Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>食用之前先看我！</title>
+    <link href="http://yoursite.com/2020/12/31/notice/"/>
+    <id>http://yoursite.com/2020/12/31/notice/</id>
+    <published>2020-12-30T16:00:00.000Z</published>
+    <updated>2020-05-26T22:10:16.238Z</updated>
+    
+    <content type="html"><![CDATA[<center><b><p>一个备份站，真粉聚集地。</p><p>目前只开放备份功能。</p><p>如需探索Ins等其他服务，请微信扫描下方的二维码，备注你的微信号等待添加。</p><p>如未添加备注，请再次扫码，本站不会为你的失忆负责。</p></b><p><img src="/img/donte.png" alt=""></p></center>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;center&gt;&lt;b&gt;&lt;p&gt;一个备份站，真粉聚集地。&lt;/p&gt;&lt;p&gt;目前只开放备份功能。&lt;/p&gt;&lt;p&gt;如需探索Ins等其他服务，请微信扫描下方的二维码，备注你的微信号等待添加。&lt;/p&gt;&lt;p&gt;如未添加备注，请再次扫码，本站不会为你的失忆负责。&lt;/p&gt;&lt;/b&gt;&lt;p&gt;&lt;img src=&quot;
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
   
   <entry>
     <title>贰零贰零零伍贰陆</title>
@@ -180,28 +202,6 @@
     <summary type="html">
     
       房间号是密码
-    
-    </summary>
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>公告</title>
-    <link href="http://yoursite.com/2020/03/30/notice/"/>
-    <id>http://yoursite.com/2020/03/30/notice/</id>
-    <published>2020-03-30T13:12:21.000Z</published>
-    <updated>2020-05-26T22:00:35.330Z</updated>
-    
-    <content type="html"><![CDATA[<center><b><p>一个备份站，真粉聚集地。</p><p>目前只开放备份功能。</p><p>如需探索Ins等其他服务，请微信扫描下方的二维码，备注你的微信号等待添加。</p><p>如未添加备注，请再次扫码，本站不会为你的失忆负责。</p></b><p><img src="/img/donte.png" alt=""></p></center>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;center&gt;&lt;b&gt;&lt;p&gt;一个备份站，真粉聚集地。&lt;/p&gt;&lt;p&gt;目前只开放备份功能。&lt;/p&gt;&lt;p&gt;如需探索Ins等其他服务，请微信扫描下方的二维码，备注你的微信号等待添加。&lt;/p&gt;&lt;p&gt;如未添加备注，请再次扫码，本站不会为你的失忆负责。&lt;/p&gt;&lt;/b&gt;&lt;p&gt;&lt;img src=&quot;
-      
     
     </summary>
     
